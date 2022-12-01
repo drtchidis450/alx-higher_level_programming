@@ -1,5 +1,3 @@
-
-
 #!/usr/bin/python3
 # Author - Chidi Ojike
 
