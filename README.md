@@ -1,3 +1,1 @@
-# alx-higher_level_programming
-# alx-higher_level_programming
-# alx-higher_level_programming
+file, at the root of the folder of the project, is mandatory
